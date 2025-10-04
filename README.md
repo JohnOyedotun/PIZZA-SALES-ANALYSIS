@@ -1,26 +1,74 @@
-# PIZZA-SALES-ANALYSIS
-Executive Summary for pizza sales
+🍕 Pizza Sales Data Analysis Dashboard
+ Executive Summary
 
-The project is aimed  at knowing the following:
+This project focuses on analyzing pizza sales performance to uncover key business insights, including total sales, top- and bottom-performing pizzas, seasonal sales trends, size-based performance, and category-level comparisons.
 
-1. Total sales of Pizza.
+The goal is to provide a clear, data-driven understanding of sales patterns to support decision-making for product strategy, promotions, and inventory management.
 
-2.  5 Pizza company name with the lowest quantity and the pizza name with the highest sales.
+🧰 Project Overview
 
-3. The highest pizza sales in the second quarter in 2015.
+Objective:
 
-4. The pizza with the highest sales by size.
+Determine total pizza sales
 
-5. chicken category of pizza with lowest quantity of sales.
+Identify the bottom 5 pizzas by quantity sold
 
-  Preparation: The dataset was cleaned and transformed with power query, with the dashboard for the report visualization built in excel with different chart.
+Identify the pizza with the highest sales overall
 
-  1. Insight revealed the total sales of pizza to be $817,860
+Analyze highest pizza sales in Q2 2015
 
-  2. Based on the bottom 5 pizza quantity sales Carre pizza, Mediterranean pizza, Calabrese pizza, Spinach supreme pizza, Soppressata pizza has the lowest quantity of sales of pizza  while The Thai chicken pizza made the  highest sales.
+Determine highest selling pizza by size
 
-  3. The Thai chicken pizza has the highest sales in the second quarter with $36 from Barbecue chicken pizza thata made the highest sales in the first quarter.
+Identify the chicken pizza category with the lowest quantity sold
 
-  4. Based on the sizes of pizza Big meat pizza made the highest sales for small sizes of pizza,Classic deluxe chicken pizza for medium size,Thai chicken pizza for large size of pizza while the Greek pizza has the highest sales for xtra large size of pizza.
+Tools & Techniques Used:
 
-  5. Insight extracted shows that based on the category  of chicken, The Chicken pesto pizza has the lowest quantity.    
+🧼 Data Cleaning & Transformation: Power Query
+
+📊 Visualization: Excel Dashboard
+
+
+📊 Key Insights
+💰 Total Sales
+
+The total pizza sales amounted to $817,860.
+
+ Bottom 5 Pizzas by Quantity Sold
+
+The pizzas with the lowest quantity of sales are:
+
+Carre Pizza
+
+Mediterranean Pizza
+
+Calabrese Pizza
+
+Spinach Supreme Pizza
+
+Soppressata Pizza
+
+ These may require review for menu optimization or targeted promotions.
+
+ Top Performing Pizza
+
+Thai Chicken Pizza achieved the highest sales overall.
+
+In Q2 2015, it generated $36 more than Barbecue Chicken Pizza, which led in Q1.
+
+📅 Quarterly Performance (2015)
+Quarter	Top-Selling Pizza	Sales Performance
+Q1	Barbecue Chicken Pizza	Highest sales in Q1
+Q2	Thai Chicken Pizza	Surpassed Q1 leader by $36
+📐 Highest Sales by Pizza Size
+Size	Top-Selling Pizza
+Small	Big Meat Pizza
+Medium	Classic Deluxe Chicken Pizza
+Large	Thai Chicken Pizza
+Extra Large	Greek Pizza
+
+ Large-sized Thai Chicken Pizza was the overall standout performer.
+
+🍗 Chicken Category – Lowest Quantity
+
+Chicken Pesto Pizza had the lowest quantity sold within the chicken pizza category.
+This insight can guide product reevaluation or marketing strategies.
